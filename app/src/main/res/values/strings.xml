@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Liker</string>
+
+    <string name="beer_instruction">Enter Your Search Term</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Search for your beer...</string>
+    <string name="button">Search</string>
+    <string name="btn_like">Like!</string>
+    <string name="btn_dislike">Dislike!</string>
+
+</resources>
