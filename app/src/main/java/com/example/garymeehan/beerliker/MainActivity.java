@@ -143,7 +143,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
                             if(newLabels.has("icon")){
                                 try {
                                     iconLabel = newLabels.getString("medium");
-                                    Log.d("@@@@", iconLabel);
                                 } catch (JSONException e) {
                                     e.printStackTrace();
                                 }
