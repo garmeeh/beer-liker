@@ -7,5 +7,7 @@
     <string name="button">Search</string>
     <string name="btn_like">Like!</string>
     <string name="btn_dislike">Dislike!</string>
+    <string name="cool">Cool</string>
+    <string name="cancel">Cancel</string>
 
 </resources>
