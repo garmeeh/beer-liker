@@ -33,7 +33,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
     //welcome variables
     private static final String PREFS = "prefs";
     private static final String PREF_NAME = "name";
-    //Shared Prefernces
+    //Shared Preferences
     SharedPreferences mSharedPreferences;
     //Simple counter
     Integer beerCount;
